@@ -1,5 +1,7 @@
 ### Hi there! I'm Alejandra <img src="https://media.giphy.com/media/8XReuK4VXOzOglOftN/giphy.gif" alt="AlejandraGarcia1" width="40"/>
 
+###### Front-end Developer student at [Laboratoria Link](https://www.laboratoria.la/)
+
 <!--
 **AlejandraGarcia1/AlejandraGarcia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
