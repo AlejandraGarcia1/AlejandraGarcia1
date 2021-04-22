@@ -6,6 +6,10 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 <a href="https://www.twitch.tv/sccrapycocoo/about">
   <img align="left" alt="Alejandra's Twitch" width="22px" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png" />
 </a>
+
+<a href="https://www.linkedin.com/in/alejandra-garc%C3%ADa-423b35185/">
+  <img align="left" alt="Alejandra's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
   
 
 <!--
