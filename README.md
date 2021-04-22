@@ -4,7 +4,7 @@ Front-end Developer student at [Laboratoria](https://www.laboratoria.la/)
 Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 <a href="https://www.twitch.tv/sccrapycocoo/about">
-  <img align="left" alt="Alejandra's Twitch" width="22px" src="https://seeklogo.com/vector-logo/274042/twitch" />
+  <img align="left" alt="Alejandra's Twitch" width="22px" src="https://www.freepng.es/png-7tsay5/" />
 </a>
   
 
