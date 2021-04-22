@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Bunny](https://media.giphy.com/media/8XReuK4VXOzOglOftN/giphy.gif)
+
 <!--
 **AlejandraGarcia1/AlejandraGarcia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
