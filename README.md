@@ -1,6 +1,6 @@
 ### Hi there! I'm Alejandra <img src="https://media.giphy.com/media/8XReuK4VXOzOglOftN/giphy.gif" alt="AlejandraGarcia1" width="40"/>
 
-Front-end Developer student at [Laboratoria](https://www.laboratoria.la/)
+Front-end Developer student at [Laboratoria](https://www.laboratoria.la/)  
 Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 <!--
