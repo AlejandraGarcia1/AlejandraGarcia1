@@ -14,10 +14,10 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 #### A little more about me ...
 
-<code style="color:red"> const </code>
+<code> const </code>
 
 
-```html
+```javascript
     const alejandra = {    
        degree: Economist,    
        passion: programming,    
