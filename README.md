@@ -15,7 +15,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 #### A little more about me ...
 
 ```html
-    const alejandra = {    
+<span style="color:red"> const </span> alejandra = {    
        degree: Economist,    
        passion: programming,    
        languages: [ Spanish, English ],    
