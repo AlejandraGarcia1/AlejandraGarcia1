@@ -29,7 +29,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
     };
 ```
 
-<p align="rigth"> <img src="https://github-readme-stats.vercel.app/api?username=alejandragarcia1&show_icons=true&theme=dracula" alt="abhisheknaiidu" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=alejandragarcia1&show_icons=true&theme=dracula" alt="abhisheknaiidu" />
 
 
 
