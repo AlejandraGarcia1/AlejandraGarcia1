@@ -12,6 +12,8 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 </a>  
 <br>
 
+**Languages and Tools:**  
+
 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=alejandragarcia1&show_icons=true&theme=dracula" alt="abhisheknaiidu" />
 
