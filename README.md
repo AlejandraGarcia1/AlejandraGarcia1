@@ -1,6 +1,6 @@
 ### Hi there! I'm Alejandra <img src="https://media.giphy.com/media/8XReuK4VXOzOglOftN/giphy.gif" alt="AlejandraGarcia1" width="40"/>
 
-I am a Front-end developer looking to solve real world problems. I have a passion for transform each idea into 
+I am a Front-end developer looking to solve real world problems. I have a passion for transform each idea into amazing projects
 
 Front-end Developer student at [Laboratoria](https://www.laboratoria.la/)  
 Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
