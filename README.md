@@ -14,7 +14,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 #### A little more about me ...
 
-<span style="color:red"> const </span> <span style="color:yellow"> alejandra </span>
+<code style="color:red"> const </code>
 
 
 ```html
