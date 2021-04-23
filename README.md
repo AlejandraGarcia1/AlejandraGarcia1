@@ -24,7 +24,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
                   Anime: 'Shingeki no Kyojin',    
                   Music: 'A little bit of everything',    
                   Web desing: 'Figma'    
-               },    
+                },    
        challenge: 'Transform every idea into a real project!'    
     };
 ```
