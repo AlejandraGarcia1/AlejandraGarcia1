@@ -14,7 +14,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 #### A little more about me ...
 
-`const alejandra = {    
+``const alejandra = {    
     degree: Economist,    
     passion: programming,    
     languages: [ Spanish, English ],    
@@ -25,7 +25,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
                Web desing: 'Figma'    
               },    
     challenge: 'Transform every idea into a real project!'    
-    };`
+    };``
 
 holaaaaa
 
