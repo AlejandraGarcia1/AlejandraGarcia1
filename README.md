@@ -29,7 +29,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
     };
 ```
 
-holaaaaa
+! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = AlejandraGarcia1 & show_icons = true & theme = radical )
 
 
 
