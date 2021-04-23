@@ -14,6 +14,17 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 #### A little more about me ...
 
+`const alejandra = {
+  degree: Economist,
+	passion: programming,
+  language: [ Spanish, English ],
+	hobby: [ Series, Twitch, Anime, Music, Web desing ],
+	
+	challenge: 'Transform every idea into a real project!'
+};`
+
+
+
 <!--
 **AlejandraGarcia1/AlejandraGarcia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
