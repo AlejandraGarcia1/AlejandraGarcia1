@@ -16,16 +16,16 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 ```html
     const alejandra = {    
-    degree: Economist,    
-    passion: programming,    
-    languages: [ Spanish, English ],    
-    hobbies: { Series: 'Modern Family',    
-               Video game: 'League of Legends',    
-               Anime: 'Shingeki no Kyojin',    
-               Music: 'A little bit of everything',    
-               Web desing: 'Figma'    
-              },    
-    challenge: 'Transform every idea into a real project!'    
+       degree: Economist,    
+       passion: programming,    
+       languages: [ Spanish, English ],    
+       hobbies: { Series: 'Modern Family',    
+                  Video game: 'League of Legends',    
+                  Anime: 'Shingeki no Kyojin',    
+                  Music: 'A little bit of everything',    
+                  Web desing: 'Figma'    
+               },    
+       challenge: 'Transform every idea into a real project!'    
     };
 ```
 
