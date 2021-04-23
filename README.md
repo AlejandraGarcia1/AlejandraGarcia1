@@ -18,12 +18,12 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
     degree: Economist,    
     passion: programming,    
     languages: [ Spanish, English ],    
-    hobbies: {    Series: 'Modern Family',    
-    Video game: 'League of Legends',    
-    Anime: 'Shingeki no Kyojin',    
-    Music: 'A little bit of everything',    
-    Web desing: 'Figma'    
-    },    
+    hobbies: { Series: 'Modern Family',    
+               Video game: 'League of Legends',    
+               Anime: 'Shingeki no Kyojin',    
+               Music: 'A little bit of everything',    
+               Web desing: 'Figma'    
+              },    
     challenge: 'Transform every idea into a real project!'    
     };`
 
