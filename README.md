@@ -14,13 +14,10 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 #### A little more about me ...
 
-<code> const </code>
-
-
 ```javascript
     const alejandra = {    
-       degree: Economist,    
-       passion: programming,    
+       degree: 'Economist',    
+       passion: 'Programming',    
        languages: [ Spanish, English ],    
        hobbies: { Series: 'Modern Family',    
                   Video game: 'League of Legends',    
