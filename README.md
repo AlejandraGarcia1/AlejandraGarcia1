@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="100" height="100" />
-<img src="https://media.giphy.com/media/VX9PLqvIfV8jHrhMEl/giphy.gif" alt="AlejandraGarcia1 Typer" />
+### Hi there! I'm Alejandra <img src="https://media.giphy.com/media/8XReuK4VXOzOglOftN/giphy.gif" alt="AlejandraGarcia1" width="40"/>
 </div>
 
 
-### Hi there! I'm Alejandra <img src="https://media.giphy.com/media/8XReuK4VXOzOglOftN/giphy.gif" alt="AlejandraGarcia1" width="40"/>
+
 
 I am a Front-end developer looking to solve real world problems. I have a passion for transform each idea into amazing projects
 
