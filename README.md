@@ -1,5 +1,7 @@
 <div align="center">
-### Hi there! I'm Alejandra <img src="https://media.giphy.com/media/8XReuK4VXOzOglOftN/giphy.gif" alt="AlejandraGarcia1" width="40"/>
+  
+# Hi there! I'm Alejandra <img src="https://media.giphy.com/media/8XReuK4VXOzOglOftN/giphy.gif" alt="AlejandraGarcia1" width="40"/>
+
 </div>
 
 
