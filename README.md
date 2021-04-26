@@ -2,10 +2,9 @@
 <img src="https://media.giphy.com/media/C2rjK7PpuOcwHgF5bF/giphy.gif" background-size="contain"/>
 </div>
 
+I am a Front-end developer looking to solve real world problems. I have a passion for transform each idea into amazing projects using ideation, prototype, and execution to get technology solutions.
 
-
-
-I am a Front-end developer looking to solve real world problems. I have a passion for transform each idea into amazing projects
+**I <img src="https://media.giphy.com/media/ZZl8YQoegqI1gopPiI/giphy.gif" width="20"/> technology, why? ... Because I found on it the solutions of the present and the innovation of the future!** 
 
 Front-end Developer student at [Laboratoria](https://www.laboratoria.la/)  
 Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
