@@ -19,13 +19,13 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 <br>
 <hr>
 
-**Languages:**  
+**• Languages:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://github.com/RaghavK16/RaghavK16/blob/master/images/html.svg"></code>
 <code><img height="30" src="https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg"></code>
 
-**Tools:**  
+**• Tools:**  
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -35,4 +35,6 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=alejandragarcia1&show_icons=true&theme=dracula" alt="table" />
+<br>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=alejandragarcia1&show_icons=true&theme=dracula" alt="table" />
