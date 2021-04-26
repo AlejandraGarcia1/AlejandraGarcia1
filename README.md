@@ -17,7 +17,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 </a> 
 
 <br>
-<br>
+<hr>
 
 **Languages:**  
 
