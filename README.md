@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/zOT6CcwZeae0pvoD4R/giphy.gif" width="600" />
+<img src="https://media.giphy.com/media/G4SBx2z7JHLRObPkLm/giphy.gif"/>
 
   
 # Hi there, I'm Alejandra! <img src="https://media.giphy.com/media/8XReuK4VXOzOglOftN/giphy.gif" alt="AlejandraGarcia1" width="40"/>
