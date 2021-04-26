@@ -1,7 +1,8 @@
 <div align="center">
+<img src="https://media.giphy.com/media/zOT6CcwZeae0pvoD4R/giphy.gif" alt="AlejandraGarcia1" width="800"/>
   
 # Hi there, I'm Alejandra! <img src="https://media.giphy.com/media/8XReuK4VXOzOglOftN/giphy.gif" alt="AlejandraGarcia1" width="40"/>
-<hr>
+
 </div>
 
 
