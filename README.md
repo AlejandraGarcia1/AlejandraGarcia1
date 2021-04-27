@@ -41,4 +41,4 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=alejandragarcia1&show_icons=true&theme=dracula" alt="table" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height=300 align="center" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="AlejandraGarciaDeveloper" background-size="contain" />
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Get in touch with me!** agarcia_pacheco@hotmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Get in touch with me!** agarcia_pacheco@hotmail.com
