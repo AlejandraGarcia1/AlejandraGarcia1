@@ -37,4 +37,9 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 <br>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=alejandragarcia1&show_icons=true&theme=dracula" alt="table" />
+<p align="left">
+
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=alejandragarcia1&show_icons=true&theme=dracula" alt="table">
+<img height=175 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alejandragarcia1&layout=compact&theme=dracula" alt="stats">  
+  
+</p>
