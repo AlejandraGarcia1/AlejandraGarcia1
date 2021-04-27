@@ -16,6 +16,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
   <img align="left" alt="Alejandra's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 
+<br>
 <hr>
 
 **• Languages:**  
