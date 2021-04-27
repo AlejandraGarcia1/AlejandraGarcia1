@@ -15,9 +15,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 <a href="https://www.linkedin.com/in/alejandra-garc%C3%ADa-423b35185/">
   <img align="left" alt="Alejandra's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
-<img height=25 src="https://media.giphy.com/media/lkmM9NBSGUbKde24c9/giphy.gif" alt="AlejandraGarcia1" background-size="contain"/>
 
-<br>
 <hr>
 
 **• Languages:**  
