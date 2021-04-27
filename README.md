@@ -15,6 +15,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 <a href="https://www.linkedin.com/in/alejandra-garc%C3%ADa-423b35185/">
   <img align="left" alt="Alejandra's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
+<img height=25 src="https://media.giphy.com/media/lkmM9NBSGUbKde24c9/giphy.gif" alt="AlejandraGarcia1" background-size="contain"/>
 
 <br>
 <hr>
@@ -37,8 +38,5 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 <br>
 
-<p align="left">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=alejandragarcia1&show_icons=true&theme=dracula" alt="table">
-</p>
-
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=alejandragarcia1&show_icons=true&theme=dracula" alt="table" /><img height=250 align="center" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="AlejandraGarciaDeveloper" background-size="contain" />
 
