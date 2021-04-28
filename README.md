@@ -21,7 +21,7 @@ Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 **:fire: Languages and Tools:** 
 
-<img height="170" src="https://media.giphy.com/media/vA6YLXr2365J8scBr0/giphy.gif" /> <img height="170" src="https://media.giphy.com/media/MxOKnIwwI3MmMcC3XL/giphy.gif" /> <img height="170" src="https://media.giphy.com/media/EKT9S0GcL9YKkzfsP4/giphy.gif" /> <img height="170" src="https://media.giphy.com/media/E4RBvvPmx2uFMK3dVR/giphy.gif" /> <img height="170" src="https://media.giphy.com/media/VvLN9uldREUnBEEGvP/giphy.gif" /> <img height="170" src="https://media.giphy.com/media/NzI1W644WHms5mBhQv/giphy.gif" /> <img height="170" src="https://media.giphy.com/media/PUy8wYp5EF4Xwlml5i/giphy.gif" />
+<img height="170" src="https://media.giphy.com/media/1BFZDQZwoRYTCUEw8J/giphy.gif" /> <img height="170" src="https://media.giphy.com/media/VHcR0puDkX0S9jBnsF/giphy.gif" /> <img height="170" src="https://media.giphy.com/media/kleIcOhUhm5gBxfoBe/giphy.gif" /> <img height="170" src="https://media.giphy.com/media/d7HZECrzvTSO0U4ESB/giphy.gif" /> 
 
 <p align="center">
 <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=alejandragarcia1&show_icons=true&theme=dracula" alt="table" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height=300 align="center" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="AlejandraGarciaDeveloper" background-size="contain" />
