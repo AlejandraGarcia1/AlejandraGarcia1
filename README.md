@@ -10,12 +10,13 @@ Front-end Developer student at [Laboratoria](https://www.laboratoria.la/)
 Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
 
 <a href="https://www.twitch.tv/sccrapycocoo/about">
-  <img align="left" alt="Alejandra's Twitch" width="65px" src="https://media.giphy.com/media/FfOmcVNUuRZX7nZBXb/giphy.gif" />
+  <img align="left" alt="Alejandra's Twitch" width="63px" src="https://media.giphy.com/media/FfOmcVNUuRZX7nZBXb/giphy.gif" />
 </a>
 <a href="https://www.linkedin.com/in/alejandra-garc%C3%ADa-423b35185/">
-  <img align="left" alt="Alejandra's Linkedin" width="65px" src="https://media.giphy.com/media/C7wwCJQvKZdULUZgHf/giphy.gif" />
+  <img align="left" alt="Alejandra's Linkedin" width="63px" src="https://media.giphy.com/media/C7wwCJQvKZdULUZgHf/giphy.gif" />
 </a> 
 
+<br>
 <br>
 <hr>
 
