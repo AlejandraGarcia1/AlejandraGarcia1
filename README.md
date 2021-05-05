@@ -4,7 +4,7 @@
 
 I am a Front-end developer looking to solve real-world problems. I have a passion for transforming each idea into amazing projects through the ideation, prototyping, and execution of technological solutions.
 
-**Why I <img src="https://media.giphy.com/media/ZZl8YQoegqI1gopPiI/giphy.gif" alt="heart" width="20"/> technology? Because I find solutions of the present and innovation of the future! ** 
+**Why I <img src="https://media.giphy.com/media/ZZl8YQoegqI1gopPiI/giphy.gif" alt="heart" width="20"/> technology? Because I find solutions of the present and innovation of the future!** 
 
 Front-end Developer student at [Laboratoria](https://www.laboratoria.la/)  
 Streamer in my free time on [Twitch](https://www.twitch.tv/sccrapycocoo/about)
